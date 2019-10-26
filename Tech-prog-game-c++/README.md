@@ -32,10 +32,10 @@ Patterns used:
             
             * Visitor             to diplay playing board
 
-Also you can find the architecture of my game in * Scheme.png * file. 
+Also you can find the architecture of my game in Scheme.png file. 
 
-In * Finished Game * folder you can find the finished version of the game. In * Game to test * folder you can find the same version of the game and the testing script to prevent any bugs appearing in the final version.
+In Finished Game folder you can find the finished version of the game. In Game to test folder you can find the same version of the game and the testing script to prevent any bugs appearing in the final version.
 
-installing script.sh installs everything you need to play the game, * building script.sh * builds the game and checks if all the tests were successfully completed.
+installing script.sh installs everything you need to play the game, building script.sh builds the game and checks if all the tests were successfully completed.
 
-Alternatively, you can use * play game.sh * script to build the final game version to avoid running any unit tests.
+Alternatively, you can use play game.sh script to build the final game version to avoid running any unit tests.
