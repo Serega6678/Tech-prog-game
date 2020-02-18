@@ -8,7 +8,7 @@ Firstly, the first player chooses whether he wants to attack or defend, then the
 
 The game is played on the playing board of size = 8.
 
-At the beginning of each turn, the player either changes the position his soldier, attacks the enemy soldier of regroups his army.
+At the beginning of each turn, the player either changes the position of his soldier, attacks the enemy soldier or regroups his army.
 
 The goal of the attacking team is to kill the leader of the defending team, the goal of the defending team is to kill all the attackers.
 
