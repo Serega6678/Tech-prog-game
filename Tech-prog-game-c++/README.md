@@ -1,4 +1,4 @@
-# MIPT-TP-homework
+# TP-homework
 
 Attacking and defending fraction fight between each other.
 
